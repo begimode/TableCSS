@@ -1,0 +1,14 @@
+.wrap-container{
+display: flex;
+flex-direction: column;
+width: 70%;
+background-color: bisque;
+height: 450px;
+justify-content: flex-start;
+align-items: flex-end;
+}
+.wrap-container div{
+    width: 13%;
+    height: 60px;
+    background-color: burlywood;
+}
